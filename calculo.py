@@ -14,3 +14,7 @@ tabla = pd.DataFrame( list(zip(x, y)), columns=['x', 'f(x)'] )
 tabla
 
 print(tabla)
+
+#prueba github
+
+print("he hecho un cambo al codigo")
